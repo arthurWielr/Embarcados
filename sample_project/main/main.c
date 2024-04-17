@@ -3,11 +3,8 @@
  *              @arthurWielr
  *              @MauricioBSouza
  *              @RaiterJ
- *
- * 
  * Professor:
  *              @tuliocharles
- * 
  */
 
 #include <stdio.h>
