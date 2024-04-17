@@ -1,4 +1,5 @@
 {
     "idf.portWin": "COM3",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "cmake.sourceDirectory": "C:/Users/arthu/OneDrive/Documents/GitHub/Embarcados/sample_project/main"
 }

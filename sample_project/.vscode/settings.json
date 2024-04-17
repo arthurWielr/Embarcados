@@ -3,7 +3,15 @@
   "idf.flashType": "UART",
   "files.associations": {
     "esp_log.h": "c",
-    "stdarg.h": "c"
+    "stdarg.h": "c",
+    "array": "c",
+    "*.tcc": "c",
+    "memory": "c",
+    "future": "c",
+    "istream": "c",
+    "functional": "c",
+    "tuple": "c",
+    "utility": "c"
   },
   "idf.adapterTargetName": "esp32",
   "idf.portWin": "COM3"
