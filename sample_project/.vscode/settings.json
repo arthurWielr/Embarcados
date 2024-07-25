@@ -11,7 +11,12 @@
     "istream": "c",
     "functional": "c",
     "tuple": "c",
-    "utility": "c"
+    "utility": "c",
+    "bitset": "c",
+    "chrono": "c",
+    "random": "c",
+    "limits": "c",
+    "algorithm": "c"
   },
   "idf.adapterTargetName": "esp32",
   "idf.portWin": "COM3"
